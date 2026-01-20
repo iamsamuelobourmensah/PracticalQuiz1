@@ -1,0 +1,113 @@
+/* CSS Document */
+body {
+    background-color: #656868;
+    font-family: Arial;
+}
+
+.masterContainer {
+    width: 640px;
+    margin: 30px auto;
+    border: 4px solid #F4F4EE;
+}
+
+.header {
+    height: 140px;
+    background-image: url("../img/header.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+      padding-left: 20px;
+  padding-top: 30px;
+}
+
+#natureText {
+    font-size: 25px;
+    font-weight:normal;
+    letter-spacing: 10px;
+    color: #FCF8E3;
+    margin-bottom: 0px;
+
+}
+
+#physicalUniverseText {
+    margin-top: 2px;
+    font-size: 12px;
+    color: #E2D179;
+}
+.masterContent {
+    width: 640px;
+    display: flex;
+    background-image: url("../img/page_bg.jpg");
+
+   
+
+}
+
+.main {
+    width: 480px;
+padding-left: 10px;
+padding-right: 10px;
+
+font-size: 14px;  
+font-style: normal; 
+color: #333333 ; 
+}
+
+.mainTopic{
+font-size: 15px;
+color: #A0410D;
+
+}
+.sideContent {
+    width: 160px;
+  
+ 
+}
+
+.sideContent p {
+    padding: 0px 10px ;
+
+
+}
+
+.sideContent ul {
+    list-style-type: square;
+    font-size: 10.8px;
+    padding: auto;
+    
+}
+
+.sideContent ul li {
+    margin-bottom: 8px;}
+
+.seeAlsoBox {
+    border: 1px solid #3A3B22;
+    background-color: #595438;     
+    margin: 10px ;     
+  padding: 6px 10px;
+font-size: 14px;
+}
+.seeText {
+  color: #FCF8E3;
+  font-weight: 500;
+}
+
+
+
+
+.footer {
+    height: 70px;
+    background-image: url("../img/footer.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #FCF8E3;
+    display: flex;
+    justify-content: center;
+  align-items: center;      
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+
+}
+
